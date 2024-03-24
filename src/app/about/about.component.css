@@ -1,0 +1,23 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .btn-primary {
+    margin-bottom: 20px;
+  }
+  
+  .details {
+    margin-top: 20px;
+  }
+  
+  .details ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .details li {
+    margin-bottom: 5px;
+  }
+  

@@ -1,0 +1,39 @@
+/* Navbar Brand */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  /* Navbar Links */
+  .navbar-nav .nav-link {
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+  }
+  
+  /* Navbar Toggler Icon Color */
+  .navbar-toggler-icon {
+    background-color: #fff;
+  }
+  
+  /* Active Link */
+  .navbar-nav .nav-item.active .nav-link {
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+  }
+  
+  /* Navbar Background Color */
+  .navbar {
+    background-color: #343a40 !important; /* You can change the background color */
+  }
+  
+  /* Navbar Border Bottom */
+  .navbar {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
